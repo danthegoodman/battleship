@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS game;
+DROP TABLE IF EXISTS websocket;

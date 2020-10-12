@@ -1,0 +1,9 @@
+.idea/
+
+node_modules/
+*.js
+*.tsbuildinfo
+
+.terraform/
+*.tfstate
+*.tfstate.backup
